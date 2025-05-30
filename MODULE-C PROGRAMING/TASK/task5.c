@@ -13,7 +13,7 @@ void main()
     
     area = (base*hieght) / 2 ;
     
-    printf("Area of Circle is %f",area);
+    printf("Area of triangle is %f",area);
     
     
     getch();
