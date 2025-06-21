@@ -1,0 +1,95 @@
+
+Conditional statement:
+
+1) if = give to statement and use to 'if'.
+2) else = if condition are false and run this 'else' part.
+3) else if = are use to if condition and use to another condition to use 'else if'.
+4) switch - case = are use to given to fixed value are use to 'swich - case'.
+
+if (condition)
+{
+	
+}
+else
+{
+	
+}
+else if (condition)
+{
+
+}
+switch(condition)
+{
+	case:
+	case:
+	case:
+}
+
+printf -> print 
+scanf -> user input
+
+I)data type :
+(1) int = int are use to give to value in variable.
+(2) float = float are use to give to decimal value in variable.
+(3) character  = char are use in give to singal alphabet in variable.
+(4) double = are use to decimal value in 8 bite.
+
+II)oparetor :
+(1)Arithmetic op : + , - , * , / , % 
+
+i) addition (+)
+	a + b ;
+ii) subtraction (-)
+	a - b ;
+iii) multiolication (*)
+	a * b ;
+vi) divtion (/)
+	a / b ;
+v) modulue (%)
+	a % b ;
+
+
+
+(2)Assignment op : =
+ 
+i) equal (=)
+	a = b ;
+	 (b value in assine to a variable)
+
+
+(3)logical op : && , || , !
+
+i) && (AND)
+	'&&' are use to any condition are use "frist(condition) && secod(condition) && third(condition)" 	all condition are run in and op.
+
+ii) || (OR)
+	'OR' are use to onther one condition more are condition are give right condition are run "frist	(condition) || secod(condition) || third(condition)" one more condition are run.
+
+iii) ! (NOT)
+	'!' are use to give to condition are not use  a!b a variable not are same to b varivable 
+
+
+(4) relational op : < , > , <= , >= , == , !=
+i) '<' less than  'a<b' are consider to  b are biger for a.
+ii)'>' greater than 'a>b' are consider to a are biger for b.
+iii)'<=' less than or equal 'a<=8' are consider to a variable in continue to 8 no.
+iv)'>='greater than or equal 'a>=12' are consider to a variable are big to 12 and same.
+v)'=='equal to are 'a == 0' use to one and onther are right.
+vi)'!=' are use to 'a != 0' are to a variable value not are 0.
+
+
+(5)Shorthand Op/Assignment Op: += , -= , *= , /= ,
+i)'+=' // a+=b , a = a +b // add and assign
+ii)'-=' // a-=b , a = a-b // subtract and assign 
+iii)'*=' // a*=b , a = a*b // multiply and assign 
+iv)'/=' // a/=b , a = a/b // divide and assign 
+
+c = a + b;
+a = a+b // a+=b
+a!b
+
+===============================================================================================
+
+
+
+

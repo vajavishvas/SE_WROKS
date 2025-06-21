@@ -1,0 +1,23 @@
+1. Find the greatest of two numbers. = DONE
+
+2.Classify a score into grades A, B, C, D, or F.= DONE
+
+3.Check whether a year is a leap year. = DONE
+
+4.Print "Pass" if marks are 40 or above, otherwise print "Fail". = DONE
+
+5.Determine if a character isABO a vowel or consonant. = DONE
+
+6.Check if a number is divisible by both 3 and 5. = DONE
+
+7.Assign ticket price based on age (child, adult, senior). = DONE
+ 
+8.Check if a number is within a given range (e.g., 10–50). = DONE
+
+8.Convert 24-hour time to 12-hour format with AM/PM.
+
+10.Identify the largest among three numbers.= DONE
+
+11.Check if a number is a multiple of 7. = DONE
+
+12.Display "Hot", "Warm", or "Cold" based on temperature. =DONE
