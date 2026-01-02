@@ -1,0 +1,47 @@
+Quiz : Setting up C & First program
+
+
+1.As a text editor, Notepad can be used on ________.
+Correct Answer : Windows
+
+2.The files you create with your editor are called the ______.
+Correct Answer : source files
+
+3.find the output of following program #include int main(){ printf("Hello C Language"); return 0; }
+Correct Answer : Hello C Language
+
+4.What is gcc?
+Correct Answer : C compiler
+
+5.The compilation is a process of converting the source code into ________.
+Correct Answer :  object code
+
+6.Find the output of following program #include { printf("Hello "); }
+Correct Answer : error
+
+7.Which one is not a programming compiler?
+Correct Answer : JDK
+
+8.What is command of install the GCC
+Correct Answer : $ gcc -v
+
+9.What will be the output of this program? main() {printf("javatpoint"); main();}
+Correct Answer : It will keep on printing javatpoint
+
+10.What is a lint?
+Correct Answer : Analyzing tool
+
+11.Directives are translated by the
+Correct Answer : Pre-processor
+
+12.How many bytes does "int = D" use?
+Correct Answer : 2 or 4
+
+13._________includes the standard input output library functions.
+Correct Answer : #include <stdio.h>
+
+14.Turbo C is type of ______.
+Correct Answer : compiler
+
+15.which of these is a c compiler?
+Correct Answer : CodeBlocks

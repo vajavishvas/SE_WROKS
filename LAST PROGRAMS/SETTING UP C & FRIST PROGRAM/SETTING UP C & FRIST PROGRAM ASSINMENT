@@ -1,0 +1,70 @@
+1.what all things afe required to run a c program on any computer.?
+
+=Ans : To run a C program on any computer, you need the following key components.
+1.TEXT ADITOR 
+	VS CODE DOWNLOAD
+2.COMPILER
+	C COMPILER
+	C / C++ COMPILER
+	ANY USE COMPILER
+
+WHAT A COMPILER 
+    type a program in english computer are not accept computer are accept
+the binary (0,1) language and c compiler are converted languge are binary 
+language and computer are receive and give to response & act in store data
+and give to computer system there are to cold of compiler 
+
+SIE  TO C LANGUAGE ARE COMPILER ARE TO DOWNLOAD C COMPILER
+
+PROGRAM WRITTEN BY US NEEDS TI BE CONVERTED INTO MACHINE UNDERSTANDABLE CODE.
+
+AND USE TO GCC COMPILER
+
+
+
+
+
+
+
+2.write a program which prints a statement as- " Hello, i am(vishvas)."
+on the output screen.?
+=Ans:
+
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+    printf("\n Hello, i am ( vishvas vaja)");
+    
+    getch();
+}
+
+
+Output :
+
+Hello, i am ( vishvas vaja)
+
+
+3.For what purpose do we use '/*.....*/' such symbols in c program.?
+=Ans : This are C programming, the symbols /* ... */ are used to write comments.
+    are used to add notes or explanations in the code that are ignored by the compiler.
+    
+    syntex:
+    
+    /* comments */
+    
+    Let me know if you want examples of where comments are especially useful.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
